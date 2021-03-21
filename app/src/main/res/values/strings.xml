@@ -2,4 +2,12 @@
     <string name="app_name">MyNewNotepad</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="one_title">Первая заметка</string>
+    <string name="two_title">Вторая заметка</string>
+    <string name="three_title">Третья заметка</string>
+
+    <string name="one_description">Первое описание</string>
+    <string name="two_description">Второе описание</string>
+    <string name="three_description">Третье описание</string>
 </resources>
